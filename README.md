@@ -24,4 +24,4 @@ Atualmente, dedico meus estudos e práticas diárias a estas tecnologias e ferra
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bda4eAprmS26%2BEFvVU5Zyvw%3D%3D)) - Fique à vontade para me mandar uma mensagem. Estou sempre aberto para falar sobre código, segurança da informação ou aviação!
+- [LinkedIn](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bda4eAprmS26%2BEFvVU5Zyvw%3D%3D) - Fique à vontade para me mandar uma mensagem. Estou sempre aberto para falar sobre código, segurança da informação ou aviação!
